@@ -16,50 +16,59 @@
 
 <br>
 
-<h2>Tech stack:</h3>
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs" />
-  </a>
-</p>
+<h2>Tech stack:</h2>
+<ul>
+  <li>
+    <b>Backend</b>
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs" />
+      </a>
+    </p>
+  </li>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,redux,tailwind" />
-  </a>
-  <a href="https://ui.shadcn.com/">
-    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-</p>
+  <li>
+    <b>Frontend</b>
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,redux,tailwind" />
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </p>
+  </li>
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  </a>
-</p>
+  <li>
+    <b>Database</b>
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+      </a>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40" />
+    </p>
+  </li>
 
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman" />
-  </a>
-</p>
+  <li>
+    <b>Tools</b>
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman" />
+      </a>
+    </p>
+  </li>
+</ul>
 
 <h2>What I Can Do</h2>
 <p dir="auto">
-  <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img align="right" alt="Coding" width="280" src="Welcome.gif">
 </p>
 
 <ul dir="auto">
   <li><b>Frontend:</b> Skilled in <b>Next.js, React, and React Native</b> for building fast, SEO-friendly web and mobile apps using <b>Tailwind CSS & shadcn/ui</b>.</li>
   <li><b>Backend:</b> Experienced in designing scalable RESTful APIs with <b>Node.js (NestJS/Express)</b> and <b>.NET</b>, ensuring high-performance server logic.</li>
   <li><b>Database:</b> Capable of architecting efficient data models using <b>MongoDB, MySQL,</b> and <b>SQL Server</b>.</li>
-  <li><b>Communicator:</b> Strong English communication, honed through my unique background as a <b>former tour guide</b>.</li>
+  <li><b>Soft Skills:</b> Strong <b>communication and team management</b> abilities.</li>
 </ul>
 
 <br>
